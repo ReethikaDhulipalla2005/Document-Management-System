@@ -10,8 +10,8 @@ A MEAN stack Document Management System with upload, tagging, search, permission
 ## Prerequisites
 - Node.js - v18+ 
 - npm - v9+ 
-- MongoDB  v6+ 
-- Angular CLI  v17+ 
+- MongoDB - v6+ 
+- Angular CLI - v17+ 
 
 ## Setup
 
